@@ -11,15 +11,15 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://RadimMusalek.github.io/
-baseurl: /CV/
+url: http://radimmusalek.com # http://RadimMusalek.github.io/
+baseurl: /radimmusalek.github.io/ # /CV/
 title: Radim Mušálek
 author: Radim Mušálek
 description: Personal blog and resume
 avatar: profile.png
-email: radim.musalek@integrify.io
+email: musalek.radim (at) gmail.com
 github: RadimMusalek # username
-twitter: radim_musalek
+# twitter: radim_musalek
 linkedin: radim-mušálek-1142b824
 # stackoverflow: username   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus
